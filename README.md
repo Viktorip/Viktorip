@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on interesting projects that develop my skills further
 - 📫 How to reach me: firstname(dot)lastname(at)gmail.com
 
+## About me
+
 I'm a Full Stack Developer and I've previously worked with React, JQuery and Perl as my job. My job required me to be familiar with Linux system and Bash scripting. My most recent experience is on React and NextJS. On my free time I keep up with my web development skills by learning new things like NextJS. Even further back in my history I've worked as a Unity game developer and I've published one game made by myself on the google play store. In Unity I coded using C#. Even before that in the ancient times I made several games in Adobe Flash (using ActionScript 2 and 3) that can still be found in the corners of internet that still run Flash game portals. Coding has been a part of me all my adult life whether it be making games or web apps.
 
 ## 🛠️ Skills
